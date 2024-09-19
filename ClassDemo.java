@@ -5,7 +5,7 @@ import java.io.*;
 	static double avg;
 	public static void main(String args[])
 	{
-		rollno="23K61A05G5";
+		rollno="23K61A05G3";
 		avg=94.6;
 		System.out.println("Roll no is "+rollno+"\nAverage is "+avg);
 	}
